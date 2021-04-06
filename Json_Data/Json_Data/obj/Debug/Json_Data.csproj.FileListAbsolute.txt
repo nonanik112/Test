@@ -1,0 +1,9 @@
+C:\Users\Metehan\Desktop\İŞ SINAVI\Json_Data\Json_Data\bin\Debug\Json_Data.exe.config
+C:\Users\Metehan\Desktop\İŞ SINAVI\Json_Data\Json_Data\bin\Debug\Json_Data.exe
+C:\Users\Metehan\Desktop\İŞ SINAVI\Json_Data\Json_Data\bin\Debug\Json_Data.pdb
+C:\Users\Metehan\Desktop\İŞ SINAVI\Json_Data\Json_Data\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Metehan\Desktop\İŞ SINAVI\Json_Data\Json_Data\obj\Debug\Json_Data.csprojAssemblyReference.cache
+C:\Users\Metehan\Desktop\İŞ SINAVI\Json_Data\Json_Data\obj\Debug\Json_Data.csproj.CoreCompileInputs.cache
+C:\Users\Metehan\Desktop\İŞ SINAVI\Json_Data\Json_Data\obj\Debug\Json_Data.csproj.CopyComplete
+C:\Users\Metehan\Desktop\İŞ SINAVI\Json_Data\Json_Data\obj\Debug\Json_Data.exe
+C:\Users\Metehan\Desktop\İŞ SINAVI\Json_Data\Json_Data\obj\Debug\Json_Data.pdb
